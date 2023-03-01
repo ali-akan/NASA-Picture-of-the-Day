@@ -14,3 +14,5 @@ To use the app:
 
 - React
 - NASA API
+
+  [live version] (https://nasa-35039.web.app/)
