@@ -1,0 +1,26 @@
+.explanation {
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  font-size: large;
+  font-weight: 900;
+}
+
+@media (max-width: 768px) {
+  .explanation {
+    font-size: medium;
+    font-weight: 700;
+  }
+  .img {
+    min-width: 100%;
+  }
+}
+
+.main {
+  background-color: #141a1b;
+  color: white;
+}
+.main b {
+  font-size: large;
+  font-weight: 900;
+}
